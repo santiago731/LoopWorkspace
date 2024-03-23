@@ -44,7 +44,6 @@ jobs:
           future_carbs_4h \
           low_carb_limit \
           limit_loop_cycle_time \
-          now_line \
           customtypeone_looppatches \
           2002 \
           algorithm_experiments \
